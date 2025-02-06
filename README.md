@@ -1,2 +1,5 @@
-# automationpracticesite
-To develop automated tests in the fake website Automation Practice.
+# Automation Practice Site
+I am using this fake website to develop automated tests.
+
+Frameworks: Playwright.
+Language: Python.
